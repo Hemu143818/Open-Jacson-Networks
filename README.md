@@ -1,3 +1,5 @@
+# DATE: 10.03.26
+
 # Series Queues with infinite capacity - Open Jackson Network
 ```
 # Name :k hemanth yadav
