@@ -72,4 +72,6 @@ print("----------------------------------------------------------------------")
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
-
+```
+github:https://github.com/Hemu143818/Open-Jacson-Networks/edit/main/README.md
+```
