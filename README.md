@@ -1,6 +1,6 @@
 # DATE: 10.03.26
 
-# Series Queues with infinite capacity - Open Jackson Network
+# ex6: Series Queues with infinite capacity - Open Jackson Network
 ```
 # Name :k hemanth yadav
 # Reg no.:212224100033
